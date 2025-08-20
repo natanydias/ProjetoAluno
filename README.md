@@ -1,4 +1,4 @@
-# ProjetoAluno
+# EXERCÍCIOS 01 E 02 ProjetoAluno 
 
 Projeto simples em Java desenvolvido para a disciplina de Programação Orientada a Objetos.
 
